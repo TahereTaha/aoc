@@ -53,7 +53,7 @@ print("\treg_a: ", register_a)
 print("\treg_b: ", register_b)
 print("\treg_c: ", register_c)
 print()
-print("program: ", program)
+print("program:", program)
 print()
 print("disasembled code")
 
